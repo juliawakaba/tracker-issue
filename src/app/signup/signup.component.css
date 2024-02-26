@@ -1,0 +1,14 @@
+#auth-body {
+    min-height: 100vh;
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right, #FCD000, #76DAFF);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+button {
+    transition: background-color 0.3s, color 0.3s;
+  }

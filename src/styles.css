@@ -1,1 +1,9 @@
 /* @import "~bootstrap/dist/css/bootstrap.css" */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow: hidden;
+    transition: background-color 0.3s, color 0.3s;
+}
